@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Dashboard
+# Blinkit Dashboard
 
 ![](https://github.com/sirajsaifi/Blinkit-Dashboard/blob/main/BlinkitDashboardSS.png)
 
